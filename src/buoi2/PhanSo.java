@@ -29,7 +29,7 @@ public class PhanSo {
             mau = scanner.nextInt();
         } while (mau == 0);
 
-//        scanner.close();
+        scanner.close();
     }
 
     public void hienThi() {
